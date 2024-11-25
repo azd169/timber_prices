@@ -1,4 +1,4 @@
-Year,Quarter,Time,Region,Species,Type,Low,High,Average
+Year,Quarter,Time,Region,Species,Type,Minimum,Maximum,Average
 1976,Q4,1976 Q4,Statewide,Pine,Pine Sawtimber,8.13,17.33,12.8
 1977,Q1,1977 Q1,Statewide,Pine,Pine Sawtimber,7.78,16,11.56
 1977,Q2,1977 Q2,Statewide,Pine,Pine Sawtimber,9.16,17.56,14.36
